@@ -1,0 +1,23 @@
+{
+  "name": "mifqiii-cypress-magento",
+  "version": "1.0.0",
+  "description": "Repository ini berisi skrip pengujian otomatis menggunakan Cypress untuk situs Magento ( magento.softwaretestingboard.com ). Proyek ini adalah tugas bootcamp di Sanbercode, fokus pada pengujian end-to-end dan fungsional.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mifqiii/mifqiii-cypress-magento.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mifqiii/mifqiii-cypress-magento/issues"
+  },
+  "homepage": "https://github.com/mifqiii/mifqiii-cypress-magento#readme",
+  "devDependencies": {
+    "cypress": "^14.1.0"
+  }
+}
